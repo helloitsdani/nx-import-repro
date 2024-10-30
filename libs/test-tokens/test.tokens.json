@@ -1,0 +1,12 @@
+{
+  "Global": {
+    "Brand": {
+      "$type": "fontFamilies",
+      "$value": "Comic Sans"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": ["Global"]
+  }
+}

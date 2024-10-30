@@ -1,0 +1,16 @@
+{
+  "name": "@test/test-tokens",
+  "version": "0.0.1",
+  "dependencies": {},
+  "files": [
+    "./tokens"
+  ],
+  "exports": {
+    ".": {
+      "import": "./tokens/hex.mjs",
+      "require": "./tokens/hex.js",
+      "style": "./tokens/_hex.css",
+      "scss": "./tokens/_hex.scss"
+    }
+  }
+}
